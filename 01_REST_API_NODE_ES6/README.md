@@ -38,6 +38,9 @@ A clean, modular REST API built with Node.js and Express, following best practic
 
 ## Project Structure
 
+- this is how mvc is implemented in this project.
+- ![project flow](./Notes/project%20flow%20mvc.png)
+
 - **src/**
   - **routes/** - Define API routes.
   - **validator/** - Handle validation logic on request level.
