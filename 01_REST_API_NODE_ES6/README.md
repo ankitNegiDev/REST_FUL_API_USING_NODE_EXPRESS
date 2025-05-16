@@ -1,4 +1,4 @@
-# 01_rest_api_node
+# REST API NODE_JS
 
 A clean, modular REST API built with Node.js and Express, following best practices such as layered architecture (routing, validation, controller, service, repository), middleware, and utility helpers. This project demonstrates how to structure scalable and maintainable backend code using modern tools.
 
