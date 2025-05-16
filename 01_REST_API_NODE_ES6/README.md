@@ -80,7 +80,7 @@ A clean, modular REST API built with Node.js and Express, following best practic
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/yourusername/01_rest_api_node.git
+    git clone https://github.com/ankitNegiDev/REST_FUL_API_USING_NODE_EXPRESS/tree/main/01_REST_API_NODE_ES6
     cd 01_rest_api_node
     ```
 
