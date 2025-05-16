@@ -110,7 +110,7 @@ A clean, modular REST API built with Node.js and Express, following best practic
     npm start
     ```
 
-Server will run at `http://localhost:<PORT>` (default 3000).
+Server will run at `http://localhost:<PORT>` (default 3000). if no .env is created default will then set to 4000.
 
 ---
 
